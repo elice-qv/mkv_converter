@@ -2,6 +2,9 @@
 
 Простое приложение для конвертации MKV файлов в MP4 формат с использованием ffmpeg.
 
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/ef56fd06-96b2-437e-80a9-c8a46dd39c0d" />
+
+
 ## Требования
 
 - Python 3.8 или выше
